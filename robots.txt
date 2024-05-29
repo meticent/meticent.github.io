@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://meticent.github.io/a/sitemap.html
+Sitemap: https://meticent.github.io/b/sitemap.html
+Sitemap: https://meticent.github.io/c/sitemap.html
+Sitemap: https://meticent.github.io/d/sitemap.html
